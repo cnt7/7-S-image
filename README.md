@@ -1,0 +1,2 @@
+# 7-S-image
+PUBLIC-IMAGE
